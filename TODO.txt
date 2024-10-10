@@ -1,0 +1,7 @@
+Tyler: take the 2 inputs
+
+Jack: do something with the inputs (your choice)
+
+Parker: ReadME
+
+Ryan: Made repo and the files (i think that counts??)
